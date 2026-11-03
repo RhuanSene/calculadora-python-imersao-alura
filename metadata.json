@@ -1,0 +1,7 @@
+{
+  "name": "Python CalcLab - Calculadora em Python",
+  "description": "Aprenda a criar uma calculadora simples em Python com as quatro operações básicas, explicações didáticas de cada componente e terminal interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
